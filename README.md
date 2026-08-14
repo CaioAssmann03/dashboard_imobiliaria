@@ -215,16 +215,16 @@ de alerta no dashboard abaixo.
 
 ## 📈 Etapa 4 — Dashboard Power BI
 
-<img width="1276" height="718" alt="image" src="https://github.com/user-attachments/assets/44a16b4d-1765-4e9a-b8d1-174dfecdf9d4" />
+![Painel de Locações Imobiliárias](./dashboard%20imobiliaria.png)
 
 Depois da análise em SQL, construí um dashboard interativo no Power BI conectado às
 mesmas 4 tabelas, para visualização e exploração dos indicadores.
 
 **KPIs em destaque (topo):**
-- 🟢 64,67% — Taxa de Ocupação (verde: indicador positivo)
-- 🔵 R$ 363,50 Mil — Receita Mensal Ativa
-- 🔴 20% — Taxa de Inadimplência (vermelho: alerta)
-- 🔴 17 — Imóveis sem contrato (vermelho: alerta — a inconsistência encontrada na auditoria)
+- 64,67% — Taxa de Ocupação
+- R$ 363,50 Mil — Receita Mensal Ativa
+- 20% — Taxa de Inadimplência
+- 17 — Imóveis sem contrato (o achado da auditoria de qualidade de dados, destacado como alerta)
 
 **Visuais do painel:**
 - Aluguel médio por bairro (barras)
