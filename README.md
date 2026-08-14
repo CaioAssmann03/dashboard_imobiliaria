@@ -215,10 +215,7 @@ de alerta no dashboard abaixo.
 
 ## 📈 Etapa 4 — Dashboard Power BI
 
-![Painel de Locações Imobiliárias](<img width="1276" height="718" alt="image" src="https://github.com/user-attachments/assets/e238cf72-70d7-41c8-ae32-680721cd5a3a" />)
-
 <img width="1276" height="718" alt="image" src="https://github.com/user-attachments/assets/44a16b4d-1765-4e9a-b8d1-174dfecdf9d4" />
-
 
 Depois da análise em SQL, construí um dashboard interativo no Power BI conectado às
 mesmas 4 tabelas, para visualização e exploração dos indicadores.
